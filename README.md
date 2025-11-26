@@ -28,7 +28,7 @@ Un clon de Flappy Bird ambientado en el viejo oeste.
 
 1. **Clona el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/antigravity-demos.git](https://github.com/TU_USUARIO/antigravity-demos.git)
+   git clone [https://github.com/acenaga/antigravity-demos.git](https://github.com/acenaga/antigravity-demos.git)
    ```
 2. **Para la App Inmobiliaria (Vue):
   ```bash
